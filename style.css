@@ -1,0 +1,25 @@
+#container {
+    width: 225px;
+    background-color: grey;
+    box-shadow: 2px 2px 4px black;
+}
+#first {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border: 2px solid black;
+}
+#second {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    border: 2px solid black;
+}
+.button {
+    width: 50px;
+    height: 25px;
+    background-color: green;
+    border: 2px solid darkgreen;
+}
